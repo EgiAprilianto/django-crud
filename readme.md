@@ -10,10 +10,10 @@ Simple django crud with mysql.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install django.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install django & mysqlclient.
 
 ```bash
-$ pip install django
+$ pip install django mysqlclient
 $ git clone https://github.com/EgiAprilianto/django-crud
 $ cd django-crud
 $ python manage.py runserver
